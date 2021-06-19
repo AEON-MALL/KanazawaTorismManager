@@ -3,7 +3,8 @@
 KanazawaTurismManagerが何かを簡潔に紹介する
  
 # DEMO
- 
+ ![App](App.png)
+ ![Googlemap](Googlemap.png)
  
 # Features
  
