@@ -7,7 +7,7 @@ KanazawaTurismManagerが何かを簡潔に紹介する
  ![Googlemap](Googlemap.png)
  
 # Features
- 
+ この作品はAndroidアプリになります。  
 上のエディットテキスト欄に観光地などを入力し、地図検索ボタンをタップするとgoogleマップが起動し入力され、検索が行われます。  
 地図表示ボタンを押すと座標がgoogleマップに送られ、現在位置を検索します。  
 List Viewをタップすると表示されている場所が、googleマップに入力され、検索が行われます。  
