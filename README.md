@@ -47,15 +47,15 @@ List Viewをタップした際にはトーストが表示されどこをタッ�
  
 Requirementで列挙したライブラリなどのインストール方法を説明する
 
-Android Studioをインストールすればライブラリは問題なく使用できます。
+Android Studioの標準ライブラリで問題ない。
  
 # Usage
  
-Android Studioでまず実機かエミュレーターの設定を行います。次にExSampleファイルをAndroid Studioで開き、そのまま起動する機器を選択して実行をすれば動きます。
+Android Studioでまず実機かエミュレーターの設定を行います。次にExSampleファイルをAndroid Studioで開き、そのまま起動する機器を選択して実行ができる。
  
 # Note
  
-初めて起動した際に、Android Studioのほうから何かがないなど注意される場合がありますが、基本的には支持通りに動かせば実行には問題が出ないはずです。  
+初めて起動した際に、Android Studioのほうから何かがないなど注意される場合がありますが、実行には問題がない。  
 プロキシを挟む場合は、Android Studioのほうでプロキシ設定をしないと、エミュレータがインターネットに接続されずにGoogleマップが開かない問題などが発生するので注意してください。　　
 AndroidManifest.xmlの下のほうに、Maps SDK for Android用のAPIキーを作成して入れる部分があるので、自身で作成したAPIキーを入れてください。
  
